@@ -54,7 +54,7 @@ public class BikeListAdapter extends BaseAdapter {
 
         Bike bike = mBikes.get(position);
 
-       // ImageView imageView = view.
+       // ImageView imageViewView = view.
         return view;
     }
 
